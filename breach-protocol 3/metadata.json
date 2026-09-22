@@ -1,8 +1,0 @@
-{
-  "name": "BREACH PROTOCOL",
-  "description": "5v5 tactical first-person shooter featuring LAN multiplayer with dynamic AI slot replacement, authentic tactical gadgets, recon drones, wall destruction, hard breaching, rappelling, and defuser bomb mechanics.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
